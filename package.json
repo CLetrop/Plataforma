@@ -1,0 +1,23 @@
+{
+  "name": "plataforma",
+  "version": "1.0.0",
+  "description": "Plataforma",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CLetrop/Plataforma.git"
+  },
+  "author": "cletrop",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/CLetrop/Plataforma/issues"
+  },
+  "homepage": "https://github.com/CLetrop/Plataforma#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
